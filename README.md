@@ -22,6 +22,8 @@ Offensive language dataset of Croatian comments FRENK 1.0 [huggingface](https://
 - 
 ## <a name='Corpora'></a>Corpora
 - macocu_hbs, hr_news, mC4 (Multi-lingual), hrwac, classla_hr, cc100_hr, riznica, srwac, classla_sr, cc100_sr, bswac, classla_bs, cnrwac [huggingface](https://huggingface.co/datasets/classla/xlm-r-bertic-data)
+- medical corpus A – MedCorA [paper](https://hrcak.srce.hr/file/356595)
+- EUR-Lex 2/2016 parallel, EUR-Lex judgments parallel, MaCoCu Croatian Web v2, Open Parallel Corpus (OPUS), OpenSubtitles 2018, Riznica v0.1, CHILDES Croatian Corpus, Croatian parliamentary debates (ParlaMint 2.1), Croatian parliamentary debates (ParlaMint 2.1, CoNLL format), Croatian Web (hrWaC 2.2, ReLDI), Croatian Web (hrWaC 2.2, RFTagger), DGT-Translation Memory parallel – Croatian, ELEXIS Croatian Web 2020, ELEXIS Croatian Web 2020 (hrTenTen20) WSD sample, SketchEngine Corpora [www](https://www.sketchengine.eu/corpora-and-languages/croatian-text-corpora/)
 ## <a name='Papers'></a>Papers
 - Agić & Ljubešić 2010 Lemmatization and Morphosyntactic Tagging of Croatian and Serbian [paper](https://aclanthology.org/W13-2408.pdf)
 - Samardžić 2017 Universal Dependencies for Serbian in Comparison with Croatian and Other Slavic Language [paper](https://aclanthology.org/W17-1407)
