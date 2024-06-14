@@ -1,5 +1,5 @@
 # Croatian-Language-Modeling
-Resources for Croatian language modeling, classification and generatin.
+Resources for Croatian language modeling, classification and generation.
 - [Datasets](#datasets)
 - [Models](#models)
 - [Corpora](#corpora)
