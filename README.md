@@ -13,8 +13,10 @@ Resources for Croatian language modeling, classification and generatin.
 - reldi_hr - This dataset is based on 3,871 Croatian tweets that were segmented into sentences, tokens, and annotated with normalized forms, lemmas, MULTEXT-East tags (XPOS), UPOS tags and morphological features, and named entities. [huggingface](https://huggingface.co/datasets/classla/reldi_hr) [paper](https://revije.ff.uni-lj.si/slovenscina2/article/view/7007)
 ### POS
 - SETimes_sr [github](https://github.com/reldi-data/SETimes.SRPlus)
-- 
-
+### Speech 
+- The Croatian Parliamentary Spoken Dataset ParlaSpeech-HR 2.0 [huggingface](https://huggingface.co/datasets/classla/ParlaSpeech-HR)
+### Classification
+Offensive language dataset of Croatian comments FRENK 1.0 [huggingface](https://huggingface.co/datasets/classla/FRENK-hate-hr) [paper](https://aclanthology.org/2022.parlaclarin-1.16)
 ## <a name='Models'></a>Models
 - BERTić, CroSloEngBERT, XLM-RoBERTa - [huggingface](https://huggingface.co/classla), part of CLASSLA project
 - 
