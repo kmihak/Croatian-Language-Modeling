@@ -16,7 +16,7 @@ Resources for Croatian language modeling, classification and generation.
 ### Speech 
 - The Croatian Parliamentary Spoken Dataset ParlaSpeech-HR 2.0 [huggingface](https://huggingface.co/datasets/classla/ParlaSpeech-HR)
 ### Classification
-Offensive language dataset of Croatian comments FRENK 1.0 [huggingface](https://huggingface.co/datasets/classla/FRENK-hate-hr) [paper](https://aclanthology.org/2022.parlaclarin-1.16)
+- Offensive language dataset of Croatian comments FRENK 1.0 [huggingface](https://huggingface.co/datasets/classla/FRENK-hate-hr) [paper](https://aclanthology.org/2022.parlaclarin-1.16)
 ## <a name='Models'></a>Models
 - BERTić, CroSloEngBERT, XLM-RoBERTa - [huggingface](https://huggingface.co/classla), part of CLASSLA project
 - 
