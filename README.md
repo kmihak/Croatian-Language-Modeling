@@ -27,7 +27,7 @@ Offensive language dataset of Croatian comments FRENK 1.0 [huggingface](https://
 - Samardžić 2017 Universal Dependencies for Serbian in Comparison with Croatian and Other Slavic Language [paper](https://aclanthology.org/W17-1407)
 
 ## <a name='Libraries'></a>Libraries
-- CLASSLA-Stanza: The Next Step for Linguistic Processing of South Slavic Languages: XPOS, UPOS, FEATS, ...[python](https://pypi.org/project/classla/)[paper](https://arxiv.org/pdf/2308.04255)
+- CLASSLA-Stanza: The Next Step for Linguistic Processing of South Slavic Languages: XPOS, UPOS, FEATS, ... [python](https://pypi.org/project/classla/) [paper](https://arxiv.org/pdf/2308.04255)
 
 ## <a name='Projects'></a>Projects
 - CLASSLA - CLARIN Knowledge Centre for South Slavic Languages [www](https://www.clarin.si/info/k-centre/)
