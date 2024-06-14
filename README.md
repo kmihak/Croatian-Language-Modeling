@@ -25,7 +25,7 @@ Resources for Croatian language modeling, classification and generatin.
 - Samard{\v{z}}i{\'c} 2017 {U}niversal {D}ependencies for {S}erbian in Comparison with {C}roatian and Other {S}lavic Language [paper](https://aclanthology.org/W17-1407)
 
 ## <a name='Libraries'></a>Libraries
-- CLASSLA-Stanza: The Next Step for Linguistic Processing of South Slavic Languages: XPOS, UPOS, FEATS, ...(python)(https://pypi.org/project/classla/)[paper](https://arxiv.org/pdf/2308.04255)
+- CLASSLA-Stanza: The Next Step for Linguistic Processing of South Slavic Languages: XPOS, UPOS, FEATS, ...[python](https://pypi.org/project/classla/)[paper](https://arxiv.org/pdf/2308.04255)
 
 ## <a name='Projects'></a>Projects
 - CLASSLA - CLARIN Knowledge Centre for South Slavic Languages [www](https://www.clarin.si/info/k-centre/)
