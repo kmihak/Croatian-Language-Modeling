@@ -22,7 +22,7 @@ Resources for Croatian language modeling, classification and generatin.
 - macocu_hbs, hr_news, mC4 (Multi-lingual), hrwac, classla_hr, cc100_hr, riznica, srwac, classla_sr, cc100_sr, bswac, classla_bs, cnrwac [huggingface](https://huggingface.co/datasets/classla/xlm-r-bertic-data)
 ## <a name='Papers'></a>Papers
 - Agić & Ljubešić 2010 Lemmatization and Morphosyntactic Tagging of Croatian and Serbian [paper](https://aclanthology.org/W13-2408.pdf)
-- Samard{\v{z}}i{\'c} 2017 {U}niversal {D}ependencies for {S}erbian in Comparison with {C}roatian and Other {S}lavic Language [paper](https://aclanthology.org/W17-1407)
+- Samardžić 2017 Universal Dependencies for Serbian in Comparison with Croatian and Other Slavic Language [paper](https://aclanthology.org/W17-1407)
 
 ## <a name='Libraries'></a>Libraries
 - CLASSLA-Stanza: The Next Step for Linguistic Processing of South Slavic Languages: XPOS, UPOS, FEATS, ...[python](https://pypi.org/project/classla/)[paper](https://arxiv.org/pdf/2308.04255)
