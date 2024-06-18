@@ -27,6 +27,7 @@ Resources for Croatian language modeling, classification and generation.
 ## <a name='Papers'></a>Papers
 - Agić & Ljubešić 2010 Lemmatization and Morphosyntactic Tagging of Croatian and Serbian [paper](https://aclanthology.org/W13-2408.pdf)
 - Samardžić 2017 Universal Dependencies for Serbian in Comparison with Croatian and Other Slavic Language [paper](https://aclanthology.org/W17-1407)
+- Ljubešić & Dobrovoljc 2019 What does Neural Bring? Analysing Improvements in Morphosyntactic Annotation and Lemmatisation of {S}lovenian, {C}roatian and {S}erbian [paper](https://www.aclweb.org/anthology/W19-3704)
 - ...
 ## <a name='Libraries'></a>Libraries
 - Terčon 2023 CLASSLA-Stanza: The Next Step for Linguistic Processing of South Slavic Languages: XPOS, UPOS, FEATS, ... [python](https://pypi.org/project/classla/) [paper](https://arxiv.org/pdf/2308.04255)
