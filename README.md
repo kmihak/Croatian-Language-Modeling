@@ -34,3 +34,4 @@ Resources for Croatian language modeling, classification and generation.
 
 ## <a name='Projects'></a>Projects
 - CLASSLA - CLARIN Knowledge Centre for South Slavic Languages [www](https://www.clarin.si/info/k-centre/)
+- YugoGPT - trained SOTA 7B LLM for Croatian, Bosnian, Serbian, Montenegrin lang [github](https://github.com/gordicaleksa)
