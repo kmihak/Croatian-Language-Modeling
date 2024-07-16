@@ -35,4 +35,5 @@ Resources for Croatian language modeling, classification and generation.
 
 ## <a name='Projects'></a>Projects
 - CLASSLA - CLARIN Knowledge Centre for South Slavic Languages [www](https://www.clarin.si/info/k-centre/)
+- TakeLab Retriever [www](https://retriever.takelab.fer.hr/)
 
