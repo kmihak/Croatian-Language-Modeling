@@ -19,6 +19,7 @@ Resources for Croatian language modeling, classification and generation.
 - Offensive language dataset of Croatian comments FRENK 1.0 [huggingface](https://huggingface.co/datasets/classla/FRENK-hate-hr) [paper](https://aclanthology.org/2022.parlaclarin-1.16)
 ## <a name='Models'></a>Models
 - BERTić, CroSloEngBERT, XLM-RoBERTa - [huggingface](https://huggingface.co/classla), part of CLASSLA project
+- YugoGPT - trained SOTA 7B LLM for Croatian, Bosnian, Serbian, Montenegrin lang [github](https://github.com/gordicaleksa)
 ## <a name='Corpora'></a>Corpora
 - macocu_hbs, hr_news, mC4 (Multi-lingual), hrwac, classla_hr, cc100_hr, riznica, srwac, classla_sr, cc100_sr, bswac, classla_bs, cnrwac [huggingface](https://huggingface.co/datasets/classla/xlm-r-bertic-data)
 - medical corpus A – MedCorA [paper](https://hrcak.srce.hr/file/356595)
@@ -34,4 +35,4 @@ Resources for Croatian language modeling, classification and generation.
 
 ## <a name='Projects'></a>Projects
 - CLASSLA - CLARIN Knowledge Centre for South Slavic Languages [www](https://www.clarin.si/info/k-centre/)
-- YugoGPT - trained SOTA 7B LLM for Croatian, Bosnian, Serbian, Montenegrin lang [github](https://github.com/gordicaleksa)
+
