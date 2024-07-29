@@ -20,6 +20,9 @@ Resources for Croatian language modeling, classification and generation.
 ### QA, Winograd
 - (Multi-lingual exYU) LLM evaluation QA[github](https://github.com/gordicaleksa/serbian-llm-eval)
 
+### Topic Modeling
+- News topic modeling [github](https://github.com/dkorenci/topic_coverage)
+
 ## <a name='Models'></a>Models
 - BERTić, CroSloEngBERT, XLM-RoBERTa - [huggingface](https://huggingface.co/classla), part of CLASSLA project
 - YugoGPT - trained SOTA 7B LLM for Croatian, Bosnian, Serbian, Montenegrin lang [github](https://github.com/gordicaleksa)
