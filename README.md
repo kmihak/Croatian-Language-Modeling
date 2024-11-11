@@ -18,14 +18,22 @@ Resources for Croatian language modeling, classification and generation.
 ### Classification
 - Offensive language dataset of Croatian comments FRENK 1.0 [huggingface](https://huggingface.co/datasets/classla/FRENK-hate-hr) [paper](https://aclanthology.org/2022.parlaclarin-1.16)
 ### QA, Winograd
-- (Multi-lingual exYU) LLM evaluation QA[github](https://github.com/gordicaleksa/serbian-llm-eval)
+- (Multi-lingual exYU) LLM evaluation QA [github](https://github.com/gordicaleksa/serbian-llm-eval)
 
 ### Topic Modeling
 - News topic modeling [github](https://github.com/dkorenci/topic_coverage)
+  
+### Sentiment
 
+ - [Parla sent](https://www.clarin.si/repository/xmlui/handle/11356/1868) - Sentiment identification in parliamentary proceedings in the Croatian, Bosnian, Serbian parliament [paper](https://arxiv.org/abs/2309.09783). 6 level anotation schema.
+### COPA - Choice of Plausible Alternatives
+- The [COPA-HR dataset]()
+  
 ## <a name='Models'></a>Models
 - BERTić, CroSloEngBERT, XLM-RoBERTa - [huggingface](https://huggingface.co/classla), part of CLASSLA project
 - YugoGPT - trained SOTA 7B LLM for Croatian, Bosnian, Serbian, Montenegrin lang [github](https://github.com/gordicaleksa)
+- HR-LLM - Trained od BERTić + mc4 [paper](https://archive.ceciis.foi.hr/public/conferences/2024/Proceedings/S6/S6P3.pdf)
+- 
 ## <a name='Corpora'></a>Corpora
 - macocu_hbs, hr_news, mC4 (Multi-lingual), hrwac, classla_hr, cc100_hr, riznica, srwac, classla_sr, cc100_sr, bswac, classla_bs, cnrwac [huggingface](https://huggingface.co/datasets/classla/xlm-r-bertic-data)
 - medical corpus A – MedCorA [paper](https://hrcak.srce.hr/file/356595)
